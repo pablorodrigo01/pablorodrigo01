@@ -17,13 +17,12 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     
 </div>
-  
-##
-  
+<br>  
 <div align="center"> 
   <a href="https://www.instagram.com/somemelodicplease/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pablorodrigo210104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+##
   ![Snake animation](https://github.com/pablorodrigo01/pablorodrigo01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
