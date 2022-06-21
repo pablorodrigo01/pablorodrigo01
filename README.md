@@ -1,8 +1,9 @@
 # Hello 🌹
-<div align="center">
+<div>
   <a href="https://github.com/pablorodrigo01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablorodrigo01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorodrigo01&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablorodrigo01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorodrigo01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablorodrigo01&border_color=fff&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
