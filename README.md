@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um pouco sobre mim e o
 
 ## O que estou fazendo
 
-- 🎓 **Engenharia de Computação**: Atualmente, estou no 4º semestre de Engenharia de Computação na UNITAU, onde estou aprofundando meus conhecimentos em tecnologia.
+- 🎓 **Engenharia de Computação**: Atualmente, estou no 5º semestre de Engenharia de Computação na UNITAU, onde estou aprofundando meus conhecimentos em tecnologia.
 - 💻 **Estudando Python**: Estou focado em aprimorar minhas habilidades em Python para desenvolvimento web e análise de dados.
 - 🚀 **Trabalhando com Laravel**: Estou envolvido em projetos que utilizam o framework Laravel para criar aplicativos web poderosos.
 - 🛠️ **Outros Conhecimentos**: Além disso, tenho experiência em JavaScript, jQuery, React, MySQL, PHP, Tailwind.css, Bootstrap, C, Node.js e muito mais.
