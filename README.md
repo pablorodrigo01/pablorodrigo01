@@ -24,13 +24,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um pouco sobre mim e o
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorodrigo01&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-## Escutando Música 🎧
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ubn9n3popipmj2nk62psvs5x0&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ubn9n3popipmj2nk62psvs5x0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify" />
-  </a>
-</p>
-
 ## Entre em Contato
 
 - 📫 Você pode entrar em contato comigo pelo meu e-mail: pablo.rmgoncalves@unitau.br.
