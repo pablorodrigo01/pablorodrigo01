@@ -1,32 +1,30 @@
-# Olá, sou Pablo! 👋
+# Pablo Gonçalves
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um pouco sobre mim e o que ando fazendo.
+Desenvolvedor Backend
 
-## Sobre mim
+Laravel • APIs • Sistemas Distribuídos • Integrações • Segurança
 
-- 🌱 **Aprendiz Eterno**: Tenho uma paixão ardente por aprender novas coisas, seja tecnologia, música ou qualquer coisa interessante que apareça no meu caminho.
-- 🎸 **Amante do Rock**: Minha trilha sonora é composta principalmente por rock, e alguns dos meus álbuns favoritos incluem "OK Computer", "Paranoid", "The Black Parade", "One" e "Nevermind".
-- 😄 **Divertido e Comunicativo**: Adoro interagir com pessoas e trocar ideias. Estou sempre aberto a novas amizades e colaborações.
-- 📚 **Autodidata e Perfeccionista**: Sou autodidata por natureza, sempre buscando aprimorar minhas habilidades. Tenho um toque de perfeccionismo, o que me faz buscar a excelência em tudo o que faço.
+Atuação em todo o ciclo de desenvolvimento: DEV, HOM e PRD.
 
-## O que estou fazendo
+## Experiência
+- Sistemas de NFe (XML, assinatura digital, integração com SEFAZ)
+- Integração com padrões governamentais (XML, XSD, validações)
+- APIs com autenticação, filas (queues) e verificação de e-mail
+- Integração com Firebase e processamento em tempo real
+- Publicação e manutenção em ambientes DEV / HOM / PRD
+- Análise técnica, debugging e resolução de problemas em produção
 
-- 🎓 **Engenharia de Computação**: Atualmente, estou no 7º semestre de Engenharia de Computação na UNITAU, onde estou aprofundando meus conhecimentos em tecnologia.
-- 💻 **Estudando Python**: Estou focado em aprimorar minhas habilidades em Python para desenvolvimento web e análise de dados.
-- 🚀 **Trabalhando com Laravel**: Estou envolvido em projetos que utilizam o framework Laravel para criar aplicativos web poderosos.
-- 🛠️ **Outros Conhecimentos**: Além disso, tenho experiência em JavaScript, jQuery, React, MySQL, PHP, Tailwind.css, Bootstrap, C, Node.js e muito mais.
+## Stack
+PHP (Laravel) • Node.js • MySQL • Redis • Docker • Firebase • JavaScript • Python
 
-## Dados do GitHub
+## Extras
+- Automações em Python (scripts e executáveis para processamento em massa)
+- Interesse em Segurança da Informação e análise de tráfego
+- Estudos em IA (algoritmos como A*)
 
-<div align="center" >
-  <a href="https://github.com/pablorodrigo01">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pablorodrigo01&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorodrigo01&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+## Formação
+Engenharia de Computação (9º semestre)
 
-## Entre em Contato
-
-- 📫 Você pode entrar em contato comigo pelo meu e-mail: pablo.rmgoncalves@unitau.br.
-- 💬 Converse comigo no [LinkedIn](https://www.linkedin.com/in/devpablorodrigo/) e vamos trocar ideias!
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e conectar-se comigo. Vamos aprender, criar e compartilhar juntos!
+## Contato
+- Email: pablo.rmgoncalves@unitau.br  
+- LinkedIn: https://www.linkedin.com/in/devpablorodrigo
